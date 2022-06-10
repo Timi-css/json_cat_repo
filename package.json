@@ -1,0 +1,23 @@
+{
+  "name": "json_cat_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "breedFetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timi-css/json_cat_repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timi-css/json_cat_repo/issues"
+  },
+  "homepage": "https://github.com/Timi-css/json_cat_repo#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
